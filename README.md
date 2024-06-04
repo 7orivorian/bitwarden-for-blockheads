@@ -1,5 +1,4 @@
 # Bitwarden for Blockheads
 
-## Topics
-
-* [Generating Account Credentials](Generating%20Account%20Credentials.md)
+> [!IMPORTANT]
+> This repo has been discontinued. The info can now be found [here](https://github.com/7orivorian/Tech-Guides/tree/master/Bitwarden)!
